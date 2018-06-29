@@ -1,0 +1,3 @@
+<plugins>
+    <plugin id="commerce.platform.sdk" url="./CommercePlatformSDK.zip" version="2.3.0.7"/>
+</plugins>
